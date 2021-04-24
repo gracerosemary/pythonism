@@ -1,6 +1,6 @@
 # Pythonism
 
-PR Link: 
+PR Link: https://github.com/gracerosemary/pythonism/pull/1 
 
 **Author**: G Choi
 **Version**: 1.0.0 
